@@ -1,7 +1,3 @@
-Yes. Your PySpark README style is more **learning-focused and structured**, rather than a generic GitHub landing page. For `aws-cloud-learning-lab`, I would follow the same approach: introduce the repository, then list each project with a short overview, AWS concepts, and technologies/services used.
-
-Here is a version in that style:
-
 # AWS Cloud Learning Lab
 
 This repository contains hands-on AWS projects demonstrating practical cloud concepts and the use of various AWS services.
